@@ -1,0 +1,1 @@
+# djang0_ecom_project
